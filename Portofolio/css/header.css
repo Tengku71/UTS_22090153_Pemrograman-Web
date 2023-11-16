@@ -8,7 +8,7 @@
   align-items: center;
   flex-direction: row;
   height: 70px;
-  background-image: url("/bg/bg-header.jpg");
+  background-image: url("../bg/bg-header.jpg");
 }
 .title-name {
   min-width: 220px;
