@@ -241,7 +241,7 @@ footer{
   margin-top: 20px;
   text-align: center;
   height: 70px;
-  background-image: url("/bg/bg-header.jpg");
+  background-image: url("../bg/bg-header.jpg");
 }
 footer p{
   padding-top: 10px;
